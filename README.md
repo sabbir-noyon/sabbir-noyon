@@ -1,6 +1,6 @@
 # Hey! Nice to see you 👋
 
-I’m **Sabbir Noyon**, a passionate **Full-Stack Web Application Developer** with expertise in **WordPress Plugin & Theme Development** as well as **Shopify Development**, dedicated to crafting seamless, user-friendly digital experiences.
+I’m **Sabbir Noyon**, a passionate **Full-Stack Web Application Developer** with expertise in **WordPress Plugin & Theme Development** and **Shopify Development**, dedicated to crafting seamless, user-friendly digital experiences.
 
 ---
 
@@ -38,6 +38,8 @@ Whether it's **freelancing** or **remote work**, I prioritize **client satisfact
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sabbir-noyon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
   
 ### 💡 Thought for the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
