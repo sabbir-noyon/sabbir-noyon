@@ -4,7 +4,7 @@ I’m **Sabbir Noyon**, a passionate **Full-Stack Web Application Developer** wi
 
 ---
 
-## About Me
+## 📚 About Me
 
 I specialize in building high-quality **WordPress plugins and themes**, along with **Shopify development** using **Liquid**. With solid experience in **JavaScript**, **React.js**, **PHP**, **MySQL**, **REST APIs**, and modern frontend technologies, I focus on writing clean, efficient code that solves real-world problems.
 
@@ -20,7 +20,7 @@ Whether it's **freelancing** or **remote work**, I prioritize **client satisfact
 
 ---
 
-## Beyond the Keyboard
+## 🎬 Beyond the Keyboard
 
 - 📚 Avid reader and lifelong learner  
 - 🎧 Music lover and podcast enthusiast  
@@ -52,7 +52,7 @@ Whether it's **freelancing** or **remote work**, I prioritize **client satisfact
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sabbir-noyon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## Let’s connect!
+## 🤝 Let’s connect!
 
 Feel free to reach out to discuss projects, collaborations, or just say hi!
 
@@ -60,7 +60,7 @@ Feel free to reach out to discuss projects, collaborations, or just say hi!
 
 ---
 
-## **Profile Visitors:**  
+## 📊 **Profile Visitors:**  
 [![](https://visitcount.itsvg.in/api?id=sabbir-noyon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
