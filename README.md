@@ -4,7 +4,7 @@ I’m **Sabbir Noyon**, a passionate **Full-Stack Web Application Developer** wi
 
 ---
 
-## 📚 About Me
+## 📖 About Me
 
 I specialize in building high-quality **WordPress plugins and themes**, along with **Shopify development** using **Liquid**. With solid experience in **JavaScript**, **React.js**, **PHP**, **MySQL**, **REST APIs**, and modern frontend technologies, I focus on writing clean, efficient code that solves real-world problems.
 
