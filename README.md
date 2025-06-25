@@ -34,6 +34,10 @@ Whether it's **freelancing** or **remote work**, I prioritize **client satisfact
 ![](https://nirzak-streak-stats.vercel.app/?user=sabbir-noyon&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir-noyon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align = "center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> 
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
