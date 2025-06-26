@@ -56,8 +56,7 @@ Feel free to reach out to discuss projects, collaborations, or just say hi!
 
 ---
 
-## 📊 **Profile Visitors:**  
-[![](https://visitcount.itsvg.in/api?id=sabbir-noyon&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sabbir-noyon&color=0e75b6&style=flat" alt="sabbir-noyon" /></p>
 
 
 
