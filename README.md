@@ -54,9 +54,9 @@ Feel free to reach out to discuss projects, collaborations, or just say hi!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabbir-noyon) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/sabbir_noyon_) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:sabbir.noyon.001@gmail.com)
 
----
+<br/>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=sabbir-noyon&color=0e75b6&style=flat" alt="sabbir-noyon" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sabbir-noyon&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-noyon" /> </p>
 
 
 
