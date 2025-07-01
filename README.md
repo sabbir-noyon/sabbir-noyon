@@ -65,7 +65,7 @@ Feel free to reach out to discuss projects, collaborations, or just say hi!
 <!-- THANK YOU MESSAGE -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="Thanks for visiting!" src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" >
+        <img alt="Thanks for visiting!" src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=555555&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
