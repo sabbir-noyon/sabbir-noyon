@@ -1,4 +1,4 @@
-# Hi, I'm Sabbir Noyon <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi, I'm Sabbir Noyon 👋
 
 <!-- 👋 👋 👋 -->
 
@@ -58,7 +58,26 @@ Feel free to reach out to discuss projects, collaborations, or just say hi!
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sabbir-noyon&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-noyon" /> </p>
+<!--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sabbir-noyon&label=Profile%20views&color=0e75b6&style=flat" alt="sabbir-noyon" /> </p> 
+-->
 
+<!-- THANK YOU MESSAGE -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="Thanks for visiting!" src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" >
+    </a>
+</div>
 
+<br/>
 
+<!-- PROFILE VISITOR & BACK TO TOP -->
+<div align="center">
+   <a href="https://visitorbadge.io/status?path=sabbir-noyon">
+       <img src="https://api.visitorbadge.io/api/visitors?path=sabbir-noyon&label=Profile%20Visitors&countColor=%230E75B6" alt="Profile Visitors" /> 
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="#top">
+       <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-0E75B6?style=for-the-badge&logoColor=white" alt="Back to top" />
+   </a>
+</div>
