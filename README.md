@@ -65,7 +65,7 @@ Feel free to reach out to discuss projects, collaborations, or just say hi!
 <!-- THANK YOU MESSAGE -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="Thanks for visiting!" src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=555555&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" >
+        <img alt="Thanks for visiting!" src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=0A66C2&center=true&vCenter=true&width=400&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
@@ -74,10 +74,10 @@ Feel free to reach out to discuss projects, collaborations, or just say hi!
 <!-- PROFILE VISITOR & BACK TO TOP -->
 <div align="center">
    <a href="https://visitorbadge.io/status?path=sabbir-noyon">
-       <img src="https://api.visitorbadge.io/api/visitors?path=sabbir-noyon&label=Profile%20Visitors&countColor=%230E75B6" alt="Profile Visitors" /> 
+       <img src="https://api.visitorbadge.io/api/visitors?path=sabbir-noyon&label=Profile%20Visitors&countColor=%230A66C2" alt="Profile Visitors" /> 
    </a>
    &nbsp;&nbsp;&nbsp;&nbsp;
    <a href="#top">
-       <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-0E75B6?style=for-the-badge&logoColor=white" alt="Back to top" />
+       <img src="https://img.shields.io/badge/Back%20to%20Top%20⬆️-0A66C2?style=for-the-badge&logoColor=white" alt="Back to top" />
    </a>
 </div>
