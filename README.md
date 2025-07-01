@@ -1,4 +1,4 @@
-# Hi, I'm Sabbir Noyon <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" style="margin-top:15px" width="40" />
+# Hi, I'm Sabbir Noyon <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 <!-- 👋 👋 👋 -->
 
