@@ -1,4 +1,7 @@
-# Hi, I'm Sabbir Noyon 👋
+# <img src="https://sabbir-noyon.github.io/assets/waving-hand.svg" alt="animated-waving-hand" width="60" height="60"> Hi, I'm Sabbir Noyon
+
+<!--
+# Hi, I'm Sabbir Noyon 👋 -->
 
 <!-- 👋 👋 👋 -->
 
@@ -14,7 +17,7 @@ I’m committed to continuous learning and staying up to date with the latest tr
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabbir-noyon) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/sabbir_noyon_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbir.noyon.online) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22585604) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sabbir-noyon) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sabbir.noyon.001) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hTKzmak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbir.noyon.001@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabbir-noyon) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/sabbir_noyon_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sabbir.noyon.online) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22585604) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/sabbir-noyon) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/hTKzmak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabbir.noyon.001@gmail.com) 
 
 ---
 
