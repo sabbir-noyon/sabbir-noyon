@@ -1,4 +1,4 @@
-# <img src="https://sabbir-noyon.github.io/assets/waving-hand.svg" alt="animated-waving-hand" width="60" height="60"> Hi, I'm Sabbir Noyon
+# <img src="https://sabbir-noyon.github.io/assets/waving-hand.svg" alt="animated-waving-hand" width="50" height="50"> Hi, I'm Sabbir Noyon
 
 <!--
 # Hi, I'm Sabbir Noyon 👋 -->
