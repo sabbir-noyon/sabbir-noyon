@@ -69,7 +69,7 @@ Feel free to reach out to discuss projects, collaborations, or just say hi!
 
 <!-- THANK YOU MESSAGE -->
 <div align="center">
-    <img alt="Thanks for visiting!" src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=350&lines=Thanks+for+your+visit!" >
+    <img alt="Thanks for visiting!" src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=350&lines=Thanks+for+visiting!" >
 </div>
 
 <br/>
